@@ -13,6 +13,6 @@ public class App
         System.out.println("What is your name?");
 
         String Name = myObj.nextLine();  // Read user input
-        System.out.println("Hello," + Name + ", nice to meet you!");  // Output user input
+        System.out.println("Hello, " + Name + ", nice to meet you!");  // Output user input
     }
 }
